@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Decompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "TestDecompile.dll"
+    }
+  }
+}
